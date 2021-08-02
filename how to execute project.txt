@@ -1,0 +1,13 @@
+1. Open the path "YOUR DIRECTORY + \react-antd-assignment\server".
+2. Open the cmd at above mentioned path.
+3. Run the Command:- npm start auth and keep open the cmd.
+4. NOW Goto the path "YOUR DIRECTORY + \react-antd-assignment\antd-assignment" again in same project.
+5. Open VS Code at the path mentioned in step-4, If VS Code is installed in your machine you can directly open cmd at that path and RUN the command:- "code .". 
+6. Open Terminal in VS Code and run the command:- npm run "start:dev".
+7. once localhost initilized and you can see the project in your browser.
+
+
+YOU CAN USE DEFAULT LOGIN CREDENTIALS AS BELOW.
+
+User ID :- nidhi@gmail.com
+Password :- 123456789

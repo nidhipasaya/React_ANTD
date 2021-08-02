@@ -1,0 +1,23 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "product_name": "washing Machine",
+      "mfg_company": "Boss",
+      "mfg_location": "Palanpur"
+    },
+    {
+      "product_name": "fan",
+      "mfg_company": "bajaj",
+      "mfg_location": "kalol",
+      "id": 4
+    },
+    {
+      "product_id": "",
+      "product_name": "Icecream machine",
+      "mfg_company": "TATA Motors",
+      "mfg_location": "Banglore",
+      "id": 6
+    }
+  ]
+}
